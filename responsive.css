@@ -1,13 +1,10 @@
 @media(max-width:670px){
 
-    header{
-        width:100%;
+    .header-logo {
+        
+        color:red;
+        
     }
 
-    main{
-         width:100%;
-    }
-
-    footer{
-        width:100%
-    }
+    
+    
